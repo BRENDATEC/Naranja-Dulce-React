@@ -40,11 +40,6 @@
   line-height: 1.5;
 }
  
-.cardroot-class-name1 {
-  background-size: cover;
-  background-image: url("/rectangle%2035%20%5B2%5D-200h.png");
-}
- 
 @media(max-width: 767px) {
   .card-card {
     width: 100%;
